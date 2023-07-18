@@ -28,7 +28,7 @@ jobs:
         with:
           args: >
             -Dsonar.organization=nishanthkumarpathi
-            -Dsonar.projectKey=nishanthkumarpathi_employeefrontend-fursan-track3
+            -Dsonar.projectKey=nishanthkumarpathi_employeefrontend-github-demo-track1
             -Dsonar.sources=.
             -Dsonar.host.url=https://sonarcloud.io
 
